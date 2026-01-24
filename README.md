@@ -78,21 +78,6 @@ To enable Superpowers in your Antigravity environment:
     ```bash
     cp -r superpowers-antigravity-porting/.agent /path/to/your/project/
     ```
-### 🛡 Rules (`.agent/rules`)
-"Guardrails that enforce the Superpowers philosophy."
-
-*   **`superpowers`**: Always-on rules requiring planning, checking, and safety.
-
----
-
-## 🚀 Getting Started
-
-To enable Superpowers in your Antigravity environment:
-
-1.  **Copy the `.agent` directory** from this repository into the root of your project.
-    ```bash
-    cp -r superpowers-antigravity-porting/.agent /path/to/your/project/
-    ```
 2.  **Initialize Superpowers** in your chat (run this to load/update configurations):
     ```
     /superpowers-reload
@@ -101,6 +86,10 @@ To enable Superpowers in your Antigravity environment:
     *   *Have a vague idea?* -> `/superpowers-brainstorm`
     *   *Ready to build?* -> `/superpowers-write-plan`
 
+### 🛡 Rules (`.agent/rules`)
+"Guardrails that enforce the Superpowers philosophy."
+
+*   **`superpowers`**: Always-on rules requiring planning, checking, and safety.
 ---
 
 ## 📝 Example Workflow
