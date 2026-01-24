@@ -128,8 +128,9 @@ Skills act as additions to models, so effectiveness depends on the underlying mo
 
 **Testing considerations by model**:
 
-* **Small Models** (fast, economical): Does the Skill provide enough guidance?
-* **Large Models** (powerful reasoning): Does the Skill avoid over-explaining?
+* **Gemini Flash** (fast, economical): Does the Skill provide enough guidance?
+* **Gemini Pro / Claude Sonnet** (balanced): Is the Skill clear and efficient?
+* **Claude Opus** (powerful reasoning): Does the Skill avoid over-explaining?
 
 What works perfectly for a large model might need more detail for a smaller one. If you plan to use your Skill across multiple models, aim for instructions that work well with all of them.
 

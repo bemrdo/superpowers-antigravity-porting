@@ -136,7 +136,7 @@ Concrete results
 ```
 
 
-## Claude Search Optimization (CSO)
+## Antigravity Search Optimization (ASO)
 
 **Critical for discovery:** Future agents need to FIND your skill
 
@@ -423,7 +423,7 @@ Make it easy for agents to self-check when rationalizing:
 **All of these mean: Delete code. Start over with TDD.**
 ```
 
-### Update CSO for Violation Symptoms
+### Update ASO for Violation Symptoms
 
 Add to description: symptoms of when you're ABOUT to violate the rule:
 
